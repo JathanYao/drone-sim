@@ -49,3 +49,4 @@ qtcreator-*
 
 # Catkin custom files
 CATKIN_IGNORE
+QGroundControl-x86_64.AppImage
